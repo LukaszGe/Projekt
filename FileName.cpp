@@ -140,4 +140,5 @@ int main()
 	}
 	wczytaj_do_pliku(produkty);
 	system("pause");
+	//ytfuytdutrdhgfdrye
 }
